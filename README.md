@@ -22,7 +22,7 @@ Because this project is built entirely static with Vanilla HTML/CSS/JS, no build
 
 1. Clone or download the repository.
    ```bash
-   git clone https://github.com/kido19/FUTURE_FS_03
+   git clone https://github.com/kido19/Zemen-Bakery-and-Coffee
    ```
 2. Open the project folder.
 3. You can either:
@@ -30,4 +30,4 @@ Because this project is built entirely static with Vanilla HTML/CSS/JS, no build
    - Or, for a better development experience, run it using a local live server extension (like VS Code's "Live Server" or by running `npx http-server ./` in your terminal).
 
 ## Author
-Built by [Your Name](Your-LinkedIn-URL-Here)
+Built by [Kidist Kinfe](linkedin.com/in/kidist-kinfe-5868b03ab)
